@@ -13,6 +13,8 @@ module.exports = {
         filename: "main.js",
     },
 
+    devtool: 'inline-source-map',
+
     plugins: [
         new HTMLWebpackPlugin({
             template: "./src/index.html",
