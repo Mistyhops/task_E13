@@ -6,7 +6,7 @@ const postNode = document.querySelector(".post_list");
 function getPostList() {
     fetch("http://localhost:3000/posts")
         .then(response => response.json())
-        .then(json => displayResult(json))
+        .then(json => displayResult(json));
 }
 
 
