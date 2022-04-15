@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is post # 1",
+      "text": "Post # 1 text",
+      "author": "Michael"
+    },
+    {
+      "id": 2,
+      "title": "This is post # 2",
+      "text": "Post # 2 text",
+      "author": "Michael"
+    },
+    {
+      "id": 3,
+      "title": "This is post # 3",
+      "text": "Post # 3 text",
+      "author": "Michael"
+    },
+    {
+      "id": 4,
+      "title": "This is post # 4",
+      "text": "Post # 4 text",
+      "author": "Michael"
+    },
+    {
+      "id": 5,
+      "title": "This is post # 5",
+      "text": "Post # 5 text",
+      "author": "Michael"
+    },
+    {
+      "id": 6,
+      "title": "This is post # 6",
+      "text": "Post # 6 text",
+      "author": "Jack"
+    },
+    {
+      "id": 7,
+      "title": "This is post # 7",
+      "text": "Post # 7 text",
+      "author": "Jack"
+    },
+    {
+      "id": 8,
+      "title": "This is post # 8",
+      "text": "Post # 8 text",
+      "author": "Jack"
+    },
+    {
+      "id": 9,
+      "title": "This is post # 9",
+      "text": "Post # 9 text",
+      "author": "Jack"
+    },
+    {
+      "id": 10,
+      "title": "This is post # 10",
+      "text": "Post # 10 text",
+      "author": "Jack"
+    },
+    {
+      "id": 11,
+      "title": "This is post # 11",
+      "text": "Post # 11 text",
+      "author": "John"
+    },
+    {
+      "id": 12,
+      "title": "This is post # 12",
+      "text": "Post # 12 text",
+      "author": "John"
+    },
+    {
+      "id": 13,
+      "title": "This is post # 13",
+      "text": "Post # 13 text",
+      "author": "John"
+    },
+    {
+      "id": 14,
+      "title": "This is post # 14",
+      "text": "Post # 14 text",
+      "author": "John"
+    },
+    {
+      "id": 15,
+      "title": "This is post # 15",
+      "text": "Post # 15 text",
+      "author": "John"
+    },
+    {
+      "id": 16,
+      "title": "This is post # 16",
+      "text": "Post # 16 text",
+      "author": "Andrew"
+    },
+    {
+      "id": 17,
+      "title": "This is post # 17",
+      "text": "Post # 17 text",
+      "author": "Andrew"
+    },
+    {
+      "id": 18,
+      "title": "This is post # 18",
+      "text": "Post # 18 text",
+      "author": "Andrew"
+    },
+    {
+      "id": 19,
+      "title": "This is post # 19",
+      "text": "Post # 19 text",
+      "author": "Andrew"
+    },
+    {
+      "id": 20,
+      "title": "This is post # 20",
+      "text": "Post # 20 text",
+      "author": "Andrew"
+    }
+  ]
+}
